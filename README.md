@@ -1,4 +1,4 @@
-# mosdns-config
+# copy from jouranlist/mosdns-config
 ## [mosdns](https://github.com/IrineSistiana/mosdns) v5 配置
 
 配置文件不考虑和之前版本的兼容性，如需更新务必拉取所有文件。
